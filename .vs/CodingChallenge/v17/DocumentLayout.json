@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\service\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:service\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\service\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:service\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\tests\\hackernewsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:tests\\hackernewsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|c:\\users\\dkumar\\source\\repos\\codingchallenge\\model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3359115-9F36-4B1B-9D26-6022C2A1CD36}|CodingChallenge.csproj|solutionrelative:model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:51:25.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HackerNewsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Tests\\HackerNewsServiceTest.cs",
+              "RelativeDocumentMoniker": "Tests\\HackerNewsServiceTest.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Tests\\HackerNewsServiceTest.cs",
+              "RelativeToolTip": "Tests\\HackerNewsServiceTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:46:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:44:20.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Model\\Story.cs",
+              "RelativeDocumentMoniker": "Model\\Story.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\Model\\Story.cs",
+              "RelativeToolTip": "Model\\Story.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:43:34.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HackerNewsService.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\service\\HackerNewsService.cs",
+              "RelativeDocumentMoniker": "service\\HackerNewsService.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\service\\HackerNewsService.cs",
+              "RelativeToolTip": "service\\HackerNewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:42:48.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHackerNewsService.cs",
+              "DocumentMoniker": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\service\\IHackerNewsService.cs",
+              "RelativeDocumentMoniker": "service\\IHackerNewsService.cs",
+              "ToolTip": "C:\\Users\\dkumar\\source\\repos\\CodingChallenge\\service\\IHackerNewsService.cs",
+              "RelativeToolTip": "service\\IHackerNewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:42:19.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
